@@ -6,5 +6,8 @@
 - Added entry: Migrate from Windows 11 to Linux (not sure what distro yet).
 - Migrated to single "updates.md" file instead of separate files for each day for ease of access.
 - Attempted to install OMV and jellyfin with docker, failed, too tired to fix, signing off :(
+
+## 2025-12-27
 - Added access to depository from android phone
 - Added "Setup remote connection to router dashboard" to TO-DO List
+- Fixed updates.md dating
