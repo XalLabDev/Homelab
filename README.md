@@ -37,3 +37,4 @@ down after changing it, and not waste 2-3 hours trying to find it. :DD
 - Research virtual security measures, since i'm pretty sure this setup is HELLA unsafe.
 - Learn basic linux and git commands by heart, tired of looking them up.
 - Migrate from Windows 11 to Linux (not sure what distro yet).
+- Setup remote connection to router dashboard
